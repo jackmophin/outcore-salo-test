@@ -1,0 +1,33 @@
+img {
+    height: 200px;
+    width: 350px;
+    
+}
+h1 {
+    text-align: center;
+    
+}
+
+
+ a {
+    text-decoration: none;
+    font-size:19px;
+    color: #34453;
+
+ }
+
+ main img  {
+    height: 100px;
+    width: 100px;
+ }
+ header {
+    background-image: url('https://cdn1.epicgames.com/spt-assets/6adefbc606a9437c95bdcbc81d7b8ef5/outcore--desktop-adventure-1xchj.jpg');
+            background-size: cover;
+            height: 170vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+ }
